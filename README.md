@@ -1,4 +1,4 @@
-# SVIM_haploid-
+# SVIM_haploid
 snakemake pipeline
 
 SVIM-asm software using for haploid SV analysis
